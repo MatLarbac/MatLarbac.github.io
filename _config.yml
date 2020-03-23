@@ -1,11 +1,11 @@
 # Site settings
-author: matcabral
-title: 
+author: Mat Cabral
+title: Why Software Engineering 
 header-img: img/home-bg.png
 email: mathewcabral@gmail.com
-copyright_name: matcabral
+copyright_name: Mat Cabral
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Career path
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  MatLarbac
